@@ -6,3 +6,8 @@ The goals of this 1-hour introduction are:
 
 - Give a brief overview of available packages
 - Provide pipelines for computing persistent homology and (?) mapper graphs for input data such as a discrete metric space and a weighted graph.  
+
+
+# Binder link
+
+To run the notebook online, no installs necessary, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lizliz/TDA-Python-Workshop-JMM21/HEAD?filepath=PythonTDA_Intro.ipynb)
