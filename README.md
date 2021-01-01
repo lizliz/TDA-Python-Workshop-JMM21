@@ -1,6 +1,6 @@
 # TDA-Python-Workshop-JMM21
 
-This repository includes the jupyter notebooks for the 2021 Workshop "Mathematical and Computational Methods for Complex Social Systems" to be held at the virtual JMM 2021, led by [Elizabeth Munch](http://elizabethmunch.com/). This introduction is tailored for a network science audience, so the focus is on an relevant tools when given a network input.
+This repository includes the jupyter notebooks for the 2021 Workshop ["Mathematical and Computational Methods for Complex Social Systems"](https://www.google.com/url?q=https://meetings.ams.org/math/sc2021/meetingapp.cgi) to be held at the virtual JMM 2021, led by [Elizabeth Munch](http://elizabethmunch.com/). This introduction is tailored for a network science audience, so the focus is on an relevant tools when given a network input.
 
 The goals of this 1-hour introduction are:
 
