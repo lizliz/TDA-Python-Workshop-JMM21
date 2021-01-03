@@ -4,10 +4,15 @@
 #
 #    pip-compile
 #
+backcall==0.2.0           # via ipython
+colorama==0.4.4           # via ipython
 cycler==0.10.0            # via matplotlib
 cython==0.29.21           # via ripser, scikit-tda
-decorator==4.4.2          # via networkx
+decorator==4.4.2          # via ipython, networkx
 hopcroftkarp==1.2.5       # via persim
+ipython-genutils==0.2.0   # via traitlets
+ipython==7.19.0           # via -r requirements.in
+jedi==0.18.0              # via ipython
 jinja2==2.11.2            # via kmapper
 joblib==1.0.0             # via scikit-learn
 kiwisolver==1.3.1         # via matplotlib
@@ -19,8 +24,12 @@ networkx==2.5             # via -r requirements.in
 numba==0.52.0             # via scikit-tda, umap-learn
 numpy==1.19.4             # via -r requirements.in, kmapper, matplotlib, numba, pandas, persim, ripser, scikit-learn, scikit-tda, scipy, tadasets, umap-learn
 pandas==1.1.5             # via -r requirements.in
+parso==0.8.1              # via jedi
 persim==0.1.3             # via ripser, scikit-tda
+pickleshare==0.7.5        # via ipython
 pillow==8.0.1             # via matplotlib, scikit-tda
+prompt-toolkit==3.0.8     # via ipython
+pygments==2.7.3           # via ipython
 pyparsing==2.4.7          # via matplotlib
 python-dateutil==2.8.1    # via matplotlib, pandas
 pytz==2020.4              # via pandas
@@ -32,7 +41,9 @@ six==1.15.0               # via cycler, python-dateutil
 tadasets==0.0.4           # via scikit-tda
 teaspoon==1.1.0           # via -r requirements.in
 threadpoolctl==2.1.0      # via scikit-learn
+traitlets==5.0.5          # via ipython
 umap-learn==0.4.6         # via scikit-tda
+wcwidth==0.2.5            # via prompt-toolkit
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
