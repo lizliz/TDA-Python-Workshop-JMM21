@@ -8,14 +8,15 @@ The goals of this 1-hour introduction are:
 - Provide pipelines for computing persistent homology for input data such as a discrete metric space and a weighted graph.  
 - Show some basic ways to interface with machine learning toolkits
 
-# WARNING
-
-As is true in a normal year and worse in a pandemic year, I'm super late writing this talk.  So, if you're looking at this before the actual tutorial is running (1:30 EST Tuesday, Jan 5), it's likely not finished.  Take everything with a grain of salt!
 
 
 # Binder link
 
 To run the notebook online, no installs necessary, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lizliz/TDA-Python-Workshop-JMM21/HEAD?filepath=PythonTDA_Intro.ipynb)
+
+# Links to video
+
+This was presented at the 2021 JMM.  The video of the event is hosted [here](https://zerodivzero.com/short_course/aaac8c66007a4d23a7aa14857a3b778c/title/cffb85f269864df08b61382c00c77c2d)
 
 # Contact
 
